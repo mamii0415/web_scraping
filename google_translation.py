@@ -28,5 +28,4 @@ def translation(english):
     # ブラウザを閉じる
     browser.quit()
 
-
 print(translation(input()))
