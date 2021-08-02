@@ -22,7 +22,7 @@ $test = 'test';
 return $test
 ```
 
-$\frac{a+b}{2ab}$
+\frac{a+b}{2ab}
 
 
 > 引用したい文章
