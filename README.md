@@ -22,7 +22,7 @@ $test = 'test';
 return $test
 ```
 
-\frac{a+b}{2ab}
+<img src="https://latex.codecogs.com/gif.latex?\frac{a&plus;b}{2ab}"/>
 
 
 > 引用したい文章
